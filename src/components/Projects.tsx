@@ -1,21 +1,26 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, ExternalLink } from "lucide-react";
+import { Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Customer Churn Analysis",
-    description: "Conducted deep-dive exploratory data analysis to identify key factors driving customer churn. Delivered actionable retention strategies to stakeholders.",
-    problem: "High customer attrition rate with unknown primary drivers.",
-    solution: "Performed EDA and statistical analysis to uncover correlations.",
-    result: "Identified top 3 churn factors, enabling targeted retention campaigns.",
-    tags: ["Python", "Pandas", "EDA", "Statistics"],
-    github: "https://github.com/Venky060905",
+    title: "Customer Churn Analysis Dashboard",
+    description:
+      "Built an end-to-end customer churn analytics solution using Python, SQL, and Power BI to identify retention patterns, churn drivers, and customer behavior trends through interactive business intelligence dashboards.",
+    problem:
+      "Telecom companies faced high customer attrition without clear visibility into churn-driving factors.",
+    solution:
+      "Performed data cleaning, exploratory data analysis, SQL querying, and developed interactive Power BI dashboards with KPI tracking and churn segmentation.",
+    result:
+      "Identified key churn factors including month-to-month contracts, fiber optic services, and high monthly charges, enabling data-driven retention insights.",
+    tags: ["Python", "SQL", "Power BI", "Pandas", "EDA", "Dashboard"],
+    github: "https://github.com/Venky060905/customer-churn-analysis",
   },
   {
     title: "Sales Performance Dashboard",
-    description: "Engineered an end-to-end KPI dashboard to monitor sales, profit margins, and regional performance trends in real-time.",
+    description:
+      "Engineered an end-to-end KPI dashboard to monitor sales, profit margins, and regional performance trends in real-time.",
     problem: "Lack of centralized visibility into sales metrics across regions.",
     solution: "Integrated SQL data processing with Power BI visualizations.",
     result: "Reduced reporting time by 40% and improved decision accuracy.",
@@ -24,13 +29,14 @@ const projects = [
   },
   {
     title: "E-commerce Dashboard System",
-    description: "Developed a robust backend and analytics system for an e-commerce platform, handling product management, pricing, and ratings.",
+    description:
+      "Developed a robust backend and analytics system for an e-commerce platform, handling product management, pricing, and ratings.",
     problem: "Static pricing model and disorganized product analytics.",
     solution: "Built dynamic pricing logic and comprehensive rating analysis algorithms.",
     result: "Increased profit margins through optimized pricing strategies.",
     tags: ["Django", "SQL", "Python", "Backend"],
     github: "https://github.com/Venky060905",
-  }
+  },
 ];
 
 export default function Projects() {
