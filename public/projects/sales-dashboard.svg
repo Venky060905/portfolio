@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1452 948" role="img" aria-labelledby="title desc">
+  <title id="title">Executive Sales Dashboard</title>
+  <desc id="desc">Sales analytics dashboard with KPI cards, monthly sales trend, regional charts, product ranking, profit by region, and discount versus profit scatter plot.</desc>
+  <rect width="1452" height="948" fill="#f3f6fa"/>
+  <text x="726" y="102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" fill="#4f7dab" font-weight="400">Executive Sales Dashboard</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(46 119)">
+      <rect width="300" height="138" fill="#fff" stroke="#d5dde8"/>
+      <text x="44" y="32" font-size="24" fill="#4b4b4b">TOTAL-SALES</text>
+      <text x="20" y="110" font-size="58" fill="#4f7dab">₹ 2.30M</text>
+      <circle cx="23" cy="27" r="10" fill="none" stroke="#333" stroke-width="2"/>
+      <text x="18" y="32" font-size="18" fill="#333">₹</text>
+    </g>
+
+    <g transform="translate(376 119)">
+      <rect width="300" height="138" fill="#fff" stroke="#d5dde8"/>
+      <text x="44" y="32" font-size="24" fill="#4b4b4b">TOTAL-PROFIT</text>
+      <text x="14" y="110" font-size="58" fill="#58a04f">₹ 286.40K</text>
+      <rect x="13" y="12" width="24" height="24" fill="none" stroke="#333" stroke-width="2"/>
+      <path d="M14 32 L36 14 M15 22 H35 M24 13 V36" stroke="#333" stroke-width="1.8"/>
+    </g>
+
+    <g transform="translate(706 119)">
+      <rect width="300" height="138" fill="#fff"/>
+      <text x="44" y="28" font-size="22" fill="#4b4b4b">TOTAL ORDERS</text>
+      <text x="78" y="112" font-size="58" fill="#333">5,009</text>
+      <path d="M10 16 H30 L27 30 H15 Z M14 30 L14 35 H29" fill="none" stroke="#333" stroke-width="2"/>
+      <circle cx="16" cy="38" r="2.5" fill="#333"/>
+      <circle cx="28" cy="38" r="2.5" fill="#333"/>
+    </g>
+
+    <g transform="translate(1036 119)">
+      <rect width="300" height="138" fill="#fff"/>
+      <text x="44" y="32" font-size="24" fill="#4b4b4b">Profit-Margin</text>
+      <text x="18" y="110" font-size="58" fill="#f58220">12.47%</text>
+      <rect x="12" y="12" width="24" height="24" rx="3" fill="none" stroke="#333" stroke-width="2"/>
+      <rect x="17" y="24" width="3" height="9" fill="#333"/>
+      <rect x="23" y="18" width="3" height="15" fill="#333"/>
+      <rect x="29" y="21" width="3" height="12" fill="#333"/>
+    </g>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(46 288)">
+      <rect width="760" height="300" fill="#fff" stroke="#d5dde8"/>
+      <text x="380" y="34" text-anchor="middle" font-size="18" fill="#333">Order Date</text>
+      <text x="30" y="146" transform="rotate(-90 30 146)" font-size="18" fill="#333">Sales</text>
+      <g stroke="#e7e7e7" stroke-width="1">
+        <line x1="90" y1="68" x2="735" y2="68"/>
+        <line x1="90" y1="112" x2="735" y2="112"/>
+        <line x1="90" y1="156" x2="735" y2="156"/>
+        <line x1="90" y1="200" x2="735" y2="200"/>
+      </g>
+      <g fill="#777" font-size="17">
+        <text x="62" y="205">0K</text>
+        <text x="52" y="161">100K</text>
+        <text x="52" y="117">200K</text>
+        <text x="52" y="73">300K</text>
+      </g>
+      <path d="M120 158 L176 174 L232 110 L288 140 L344 132 L400 133 L456 136 L512 130 L568 65 L624 112 L680 45 L736 58" fill="none" stroke="#4f7dab" stroke-width="3.2"/>
+      <g fill="#777" font-size="16">
+        <text transform="translate(128 282) rotate(-90)">January</text>
+        <text transform="translate(184 282) rotate(-90)">February</text>
+        <text transform="translate(240 282) rotate(-90)">March</text>
+        <text transform="translate(296 282) rotate(-90)">April</text>
+        <text transform="translate(352 282) rotate(-90)">May</text>
+        <text transform="translate(408 282) rotate(-90)">June</text>
+        <text transform="translate(464 282) rotate(-90)">July</text>
+        <text transform="translate(520 282) rotate(-90)">August</text>
+        <text transform="translate(576 292) rotate(-90)">September</text>
+        <text transform="translate(632 286) rotate(-90)">October</text>
+        <text transform="translate(688 292) rotate(-90)">November</text>
+        <text transform="translate(744 292) rotate(-90)">December</text>
+      </g>
+    </g>
+
+    <g transform="translate(846 288)">
+      <rect width="530" height="300" fill="#fff" stroke="#d5dde8"/>
+      <text x="265" y="34" text-anchor="middle" font-size="18" fill="#333">Category</text>
+      <g fill="#777" font-size="18" text-anchor="end">
+        <text x="132" y="54">Technology</text>
+        <text x="132" y="75">Furniture</text>
+        <text x="132" y="96">Office Supplies</text>
+      </g>
+      <rect x="140" y="40" width="438" height="14" fill="#4f7dab"/>
+      <rect x="140" y="61" width="438" height="14" fill="#4f7dab"/>
+      <rect x="140" y="82" width="438" height="14" fill="#4f7dab"/>
+      <g fill="#777" font-size="17">
+        <text x="142" y="124">0K</text><text x="178" y="124">100K</text><text x="240" y="124">200K</text>
+        <text x="302" y="124">300K</text><text x="364" y="124">400K</text><text x="426" y="124">500K</text>
+        <text x="488" y="124">600K</text><text x="550" y="124">700</text>
+      </g>
+      <text x="438" y="157" font-size="18" fill="#333">Sales</text>
+    </g>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" transform="translate(46 628)">
+    <g>
+      <rect width="300" height="240" fill="#fff" stroke="#d5dde8"/>
+      <text x="6" y="32" font-size="23" fill="#444">SALES_BY_REGION</text>
+      <text x="16" y="64" font-size="18" font-weight="700" fill="#333">Region</text>
+      <g fill="#777" font-size="17" text-anchor="end">
+        <text x="80" y="84">West</text><text x="80" y="106">East</text><text x="80" y="128">Central</text><text x="80" y="150">South</text>
+      </g>
+      <rect x="84" y="72" width="132" height="16" fill="#4f7dab"/>
+      <rect x="84" y="94" width="126" height="16" fill="#4f7dab"/>
+      <rect x="84" y="116" width="92" height="16" fill="#4f7dab"/>
+      <rect x="84" y="138" width="72" height="16" fill="#4f7dab"/>
+      <text x="220" y="89" font-size="18" fill="#333">725,458</text>
+      <text x="180" y="132" font-size="18" fill="#333">501,240</text>
+      <text x="85" y="178" font-size="17" fill="#777">0K</text><text x="150" y="178" font-size="17" fill="#777">500K</text><text x="236" y="178" font-size="17" fill="#777">1000K</text>
+      <text x="168" y="210" font-size="18" fill="#333">Sales</text>
+    </g>
+
+    <g transform="translate(330 0)">
+      <rect width="360" height="280" fill="#fff" stroke="#d5dde8"/>
+      <text x="6" y="32" font-size="23" fill="#444">Top 10 Products by Sales</text>
+      <text x="38" y="64" font-size="18" font-weight="700" fill="#333">Product Name</text>
+      <g fill="#777" font-size="17">
+        <text x="6" y="86">Canon imageCLA..</text><text x="6" y="106">Cisco TelePresen..</text>
+        <text x="6" y="126">Fellowes PB500 ..</text><text x="6" y="146">GBC DocuBind P..</text>
+        <text x="6" y="166">GBC DocuBind TL..</text><text x="6" y="186">GBC Ibimaster 5..</text>
+        <text x="6" y="206">Hewlett Packard..</text>
+      </g>
+      <rect x="160" y="72" width="100" height="16" fill="#4f7dab"/><rect x="160" y="94" width="36" height="16" fill="#4f7dab"/>
+      <rect x="160" y="116" width="44" height="16" fill="#4f7dab"/><rect x="160" y="138" width="28" height="16" fill="#4f7dab"/>
+      <rect x="160" y="160" width="32" height="16" fill="#4f7dab"/><rect x="160" y="182" width="30" height="16" fill="#4f7dab"/>
+      <rect x="160" y="204" width="30" height="16" fill="#4f7dab"/>
+      <g font-size="17" fill="#333"><text x="265" y="89">61,600</text><text x="208" y="126">27,453</text><text x="197" y="166">19,823</text><text x="197" y="206">18.840</text></g>
+      <text x="163" y="236" font-size="17" fill="#777">₹ 0.00K</text><text x="245" y="236" font-size="17" fill="#777">₹ 100.00K</text>
+      <text x="226" y="268" font-size="18" fill="#333">Sales</text>
+    </g>
+
+    <g transform="translate(720 0)">
+      <rect width="300" height="240" fill="#fff" stroke="#d5dde8"/>
+      <text x="6" y="32" font-size="23" fill="#444">PROFIT_BY_REGION</text>
+      <text x="16" y="64" font-size="18" font-weight="700" fill="#333">Region</text>
+      <g fill="#777" font-size="17" text-anchor="end">
+        <text x="78" y="84">Central</text><text x="78" y="106">East</text><text x="78" y="128">South</text><text x="78" y="150">West</text>
+      </g>
+      <rect x="82" y="72" width="44" height="16" fill="#c72648"/><rect x="82" y="94" width="100" height="16" fill="#68a665"/>
+      <rect x="82" y="116" width="52" height="16" fill="#e2423c"/><rect x="82" y="138" width="118" height="16" fill="#1e7a3c"/>
+      <text x="188" y="110" font-size="18" fill="#333">₹ 91.52K</text><text x="205" y="154" font-size="18" fill="#333">₹ 108.42K</text>
+      <text x="84" y="178" font-size="17" fill="#777">0K</text><text x="135" y="178" font-size="17" fill="#777">50K</text><text x="190" y="178" font-size="17" fill="#777">100K</text><text x="245" y="178" font-size="17" fill="#777">150K</text>
+      <text x="164" y="210" font-size="18" fill="#333">Profit</text>
+    </g>
+
+    <g transform="translate(1050 0)">
+      <rect width="260" height="240" fill="#fff" stroke="#d5dde8"/>
+      <text x="6" y="30" font-size="21" fill="#444">DISCOUNT_VS_PROFIT</text>
+      <text x="28" y="118" transform="rotate(-90 28 118)" font-size="18" font-weight="700" fill="#333">Profit</text>
+      <g stroke="#e7e7e7"><line x1="86" y1="44" x2="246" y2="44"/><line x1="86" y1="78" x2="246" y2="78"/><line x1="86" y1="112" x2="246" y2="112"/><line x1="86" y1="146" x2="246" y2="146"/></g>
+      <g fill="#777" font-size="16"><text x="50" y="82">5K</text><text x="50" y="116">0K</text><text x="42" y="150">-5K</text><text x="84" y="194">0</text><text x="158" y="194">2</text><text x="236" y="194">4</text></g>
+      <g fill="none" stroke-width="2" opacity="0.95">
+        <circle cx="90" cy="112" r="3" stroke="#6aaed6"/><circle cx="95" cy="107" r="4" stroke="#6aaed6"/><circle cx="110" cy="116" r="5" stroke="#6aaed6"/>
+        <circle cx="126" cy="121" r="6" stroke="#6aaed6"/><circle cx="150" cy="108" r="7" stroke="#6aaed6"/><circle cx="186" cy="118" r="8" stroke="#f0c27a"/>
+        <circle cx="206" cy="124" r="9" stroke="#f58220"/><circle cx="226" cy="132" r="10" stroke="#f58220"/><circle cx="240" cy="144" r="10" stroke="#f58220"/>
+        <circle cx="150" cy="156" r="6" stroke="#db4d2d"/><circle cx="118" cy="136" r="4" stroke="#f58220"/><circle cx="94" cy="60" r="2" stroke="#4f7dab"/>
+      </g>
+      <text x="160" y="226" font-size="18" fill="#333">Discount</text>
+    </g>
+  </g>
+</svg>
