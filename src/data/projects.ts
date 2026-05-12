@@ -137,7 +137,7 @@ export const projects: Project[] = [
     result: "Reduced monthly reporting time from 20 hours to 12 hours (40% improvement) and improved decision accuracy with real-time KPI tracking.",
     category: "Power BI",
     tags: ["SQL", "Python", "Tableau", "Data Modeling", "ETL"],
-    github: "https://github.com/Venky060905",
+    github: "https://github.com/Venky060905/sales_performance_dashboard",
     live: "https://public.tableau.com/app/profile/venkatesh.kothamasu/viz/sales_17785529348890/Dashboard1?publish=yes",
     liveDemo: "https://public.tableau.com/app/profile/venkatesh.kothamasu/viz/sales_17785529348890/Dashboard1?publish=yes",
     featured: false,
