@@ -138,7 +138,7 @@ export default function Hero() {
               </Link>
 
               <a
-                href="/Venkatesh_Kothamasu_Resume.pdf"
+                href="/venkatesh_resume_DataAnalyst.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center gap-2 px-8 py-3.5 glass text-foreground font-semibold rounded-full hover:bg-white/20 transition-all duration-300"
