@@ -161,7 +161,7 @@ export default function Hero() {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/venkatesh-kothamasu-73542a272/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 glass rounded-full hover:bg-accent/20 hover:text-accent transition-all duration-300"

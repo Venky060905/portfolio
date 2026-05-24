@@ -97,7 +97,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/in/k-venkatesh-b78293334/"
+                  href="https://www.linkedin.com/in/venkatesh-kothamasu-73542a272/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 text-gray-300 hover:text-indigo-400 transition-colors group"
